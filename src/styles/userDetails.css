@@ -1,0 +1,56 @@
+.userDetailIcons{
+    margin: 10%;
+    font-size: 35px;
+    color:orange;
+}
+
+.userListSpans{
+    position: relative;
+    font-size: 14px;
+    color: orange;
+    font-weight: bold;
+    bottom: 8px;
+}
+
+.mb-3{
+    width: 70%;
+    margin-bottom: 5%;
+}
+.userDetailLabels{
+    text-align: left;
+    margin: 15% 0 3% 0;
+    font-size: 18px;
+}
+
+.userDetailInputs{
+    font-size: 12px;
+}
+
+#makeAdminBtn{
+    background-image: none;
+    background-color: rgb(48, 238, 23);
+    color: black;
+    border: 1px solid black;
+    font-size:10px; 
+    padding:2% 4%;
+    display:inline-block;
+    font-weight: bold;
+}
+
+#makeUserBtn{
+    background-image: none;
+    background-color: rgb(236, 137, 137);
+    color: rgb(0, 0, 0);
+    border: 1px solid black; 
+    font-size:10px; 
+    padding:2% 4%;
+    display:inline-block;
+    font-weight: bold;
+}
+
+.avatarImage{
+    display:inline-block;
+    width:150px; 
+    height:150px;
+    object-fit: cover; 
+}
